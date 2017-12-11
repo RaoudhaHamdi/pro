@@ -1,0 +1,96 @@
+
+.navbar-inverse .navbar-header a.navbar-brand:hover 
+{
+    color:#E41B17;
+}
+
+
+ul.nav navbar-nav navbar-right.active>a
+{
+ background-color: #E41B17;   
+}
+    
+.dropdown-menu
+    {
+       
+        border-top:3px solid #E41B17;
+    }
+
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li>a:focus
+    {
+       
+        background-color: #E41B17;
+}
+
+.carousel-indicators li
+{
+    background-color:#E41B17;
+    border:1px solid #E41B17;
+}
+
+.carousel-indicators li.active
+{
+    background-color:#E41B17;
+}
+
+.about span
+{
+    color:#E41B17;
+   
+}
+
+
+
+.testimonials span
+{
+ color:#E41B17;
+}
+
+
+.testimonials .carousel-indicators li.active
+{
+    border:4px solid #E41B17;
+    
+}
+
+
+hr
+{
+    border-color:#E41B17;
+}
+
+
+.subscribe h3 span
+{
+    color:#E41B17;
+    
+}
+
+h5.demo-head 
+{
+     
+    color:#E41B17;
+}
+
+
+li.color
+{
+    background: #E41B17;
+}
+
+
+.sett
+{
+    color: #E41B17;
+}
+
+
+
+
+
+
+
+
+
+

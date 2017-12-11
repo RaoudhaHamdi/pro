@@ -1,0 +1,37 @@
+/*Portrait phones */
+@media (max-width:480px)
+{
+    .subscribe .form-control
+{
+   
+    margin: 20px auto;
+}
+}
+
+
+/*Small Screen*/
+@media (min-width:481px) and (max-width:767px)
+{
+   .subscribe .form-control
+{
+   
+    margin: 20px auto;
+}
+    
+}
+
+@media
+
+/*Medium Screen*/
+@media (min-width:992px) and (max-width:1199px)
+{
+    
+ 
+}
+
+
+/* Large Screen*/
+@media (min-width:1200px)
+{
+    
+}

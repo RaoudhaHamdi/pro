@@ -1,0 +1,104 @@
+
+
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.open>a 
+{
+    
+    background-image: linear-gradient(to bottom,#9bc12d 0, rgb(25, 19, 19)100%);
+}
+
+.navbar-inverse .navbar-header a.navbar-brand:hover 
+{
+    color:#9bc12d;
+}
+
+
+ul.nav navbar-nav navbar-right.active>a
+{
+ background-color: #9bc12d;   
+}
+    
+.dropdown-menu
+    {
+       
+        border-top:3px solid #9bc12d;
+    }
+
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li>a:focus
+    {
+       
+        background-color: #9bc12d;
+}
+
+.carousel-indicators li
+{
+    background-color:#9bc12d;
+    border:1px solid#9bc12d;
+}
+
+.carousel-indicators li.active
+{
+    background-color:#9bc12d;
+}
+
+.about span
+{
+    color:#9bc12d;
+   
+}
+
+
+
+.testimonials span
+{
+ color:#9bc12d;
+}
+
+
+.testimonials .carousel-indicators li.active
+{
+    border:4px solid #9bc12d;
+    
+}
+
+
+hr
+{
+    border-color:#9bc12d;
+}
+
+
+.subscribe h3 span
+{
+    color:#9bc12d;
+    
+}
+
+h5.demo-head 
+{
+     
+    color:#9bc12d;
+}
+
+
+/*li.color
+{
+    background:#9bc12d;
+}
+*/
+
+.sett
+{
+    color: #9bc12d;
+}
+
+
+
+
+
+
+
+
+
+
